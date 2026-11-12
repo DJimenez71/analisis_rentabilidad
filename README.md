@@ -17,8 +17,8 @@ Análisis exploratorio de datos (EDA) para identificar por qué las ventas de la
 ## 📈 Visualizaciones
 
 ![Gráfico de Descuentos](outputs/grafico_descuentos.png)
-![Gráfico de categoria](outputs/grafico_categoria.png)
-![Gráfico de Subcategorías](outputs/grafico_subcategorias.png)
+![Gráfico de categoria](outputs/grafico_categorias.png)
+![Gráfico de Subcategorías](outputs/grafico_subcategoria.png)
 
 ## 💡 Recomendaciones
 1.  **Revisar la política de descuentos:** Limitar los descuentos de Mesas y Estanterías a un máximo del 15% para evitar pérdidas.
@@ -39,5 +39,5 @@ Análisis exploratorio de datos (EDA) para identificar por qué las ventas de la
 Los datos utilizados en este proyecto provienen del dataset [Superstore Dataset](https://www.kaggle.com/datasets/yesshivam007/superstore-dataset) disponible en Kaggle.
 
 ## 👩‍💻 Autora
-*Análisis realizado por A como parte de mi portafolio de análisis de datos.*
-*10 de noviembre de 2026*
+*Análisis realizado por Daniela Jimenez como parte de mi portafolio de análisis de datos.*
+*12 de noviembre de 2026*
